@@ -1,3 +1,3 @@
-# 8morikazuto.github.io
+# 8morikazutoのgithub.ioページ
 
 This page is test pages for personal use.
