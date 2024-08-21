@@ -2,11 +2,15 @@
 
 これはサンプルドキュメントです。docsifyを使いながら理解しようの会です。
 
+また何も分からない場合は以下の知識についてはdocsify自体とは別で説明が必要かもしれません。
+・githubへgitを使ってpushすることができる
+・github pagesに類するコードホスティングサービスを使ったことがある
+
 ## docsify 事前準備
 
 開発用クライアントPC側で`nodejs`と`npm`を事前にセットアップしておく必要があります。  
 2024年8月21日時点ではnodejsの公式ドキュメントは以下URLから参照できました。  
-https://nodejs.org/en  
+<https://nodejs.org/en>  
 上部の「Download」からいずれかの方法で`nodejs`をインストールしましょう。  
 `nodejs`に`npm`も含まれています。  
 
@@ -21,3 +25,4 @@ https://nodejs.org/en
 ### その他の方法について
 
 準備中
+
